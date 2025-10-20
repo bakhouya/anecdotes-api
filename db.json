@@ -9,6 +9,11 @@
       "id": 2,
       "content": "Adding manpower to a late software project makes it later!",
       "votes": 0
+    },
+    {
+      "id": 3,
+      "content": "Premature optimization is the root of all evil.",
+      "votes": 0
     }
   ]
 }
